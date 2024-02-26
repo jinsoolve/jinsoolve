@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jinsoolve)](https://solved.ac/jinsoolve)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jinsoolve)](https://solved.ac/profile/jinsoolve)
