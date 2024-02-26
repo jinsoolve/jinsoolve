@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m currently learning Problem-Solving and Machine Learning.
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jinsoolve)](https://solved.ac/profile/jinsoolve)
