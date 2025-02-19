@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Problem-Solving and Machine Learning.
 
-- ✅ Baekjoon Online Judgement solved.ac status :
+- 🥇 Baekjoon Online Judgement solved.ac status :
 <br><br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsoolve)](https://solved.ac/profile/jinsoolve)
@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 
 
-- ✅ CODEFORCES Rating:
+- 🍁 CODEFORCES Rating:
 <br><br>
 [![CodeForces Profile](https://cf.leed.at?id=jinsoolve)](https://codeforces.com/profile/jinsoolve)
 
-- ✅ Atcoder Rating: <br><br>
+- 🌿 Atcoder Rating: <br><br>
   <img src="https://atrating.baoshuo.dev/rating?username=jinsoolve">
