@@ -23,14 +23,16 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Problem-Solving and Machine Learning.
 
 - ✅ Baekjoon Online Judgement solved.ac status :
+<br><br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsoolve)](https://solved.ac/profile/jinsoolve)
 <!--
 <br><br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jinsoolve)](https://solved.ac/profile/jinsoolve)
 -->
-<br><br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsoolve)](https://solved.ac/profile/jinsoolve)
+
+
 
 - CODEFORCES Rating:
 <br><br>
