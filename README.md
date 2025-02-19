@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 
 
-- CODEFORCES Rating:
+- ✅ CODEFORCES Rating:
 <br><br>
 [![CodeForces Profile](https://cf.leed.at?id=jinsoolve)](https://codeforces.com/profile/jinsoolve)
 
-- Atcoder Rating: <br><br>
+- ✅ Atcoder Rating: <br><br>
   <img src="https://atrating.baoshuo.dev/rating?username=jinsoolve">
