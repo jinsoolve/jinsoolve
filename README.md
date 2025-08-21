@@ -85,7 +85,7 @@ I'm studying Algorithm and AI.
 [![CodeForces Profile](https://cf.leed.at?id=jinsoolve)](https://codeforces.com/profile/jinsoolve) -->
 
 ### 🌿 Atcoder Rating: <br><br>
-[![jinsoolve's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/jinsoolve?theme=darcula&width=450&show_history=3&show_icons=true)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+[![jinsoolve's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/jinsoolve?theme=darcula&width=450&show_history=3&show_icons=true)](https://atcoder.jp/users/jinsoolve)
 
 
 <!-- 구버전 -->
