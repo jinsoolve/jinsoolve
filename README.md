@@ -66,7 +66,7 @@ I'm studying Algorithm and AI.
 
 ## 🥇 Algorithm & Problem Solving
 
-### 🏆 BOJ Rating
+### 📚 BOJ Rating
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsoolve)](https://solved.ac/profile/jinsoolve)
 
 
