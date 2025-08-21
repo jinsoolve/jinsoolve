@@ -69,6 +69,7 @@ I'm studying Algorithm and AI.
 ### BOJ Rating
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsoolve)](https://solved.ac/profile/jinsoolve)
 
+
 <!-- 배너형태
 <br><br>
 [![Solved.ac
@@ -77,10 +78,18 @@ I'm studying Algorithm and AI.
 
 
 ### 🍁 CODEFORCES Rating:
-[![CodeForces Profile](https://cf.leed.at?id=jinsoolve)](https://codeforces.com/profile/jinsoolve)
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=jinsoolve&theme=dracula)](https://codeforces.com/profile/jinsoolve)
+
+<!-- 구버전
+[![CodeForces Profile](https://cf.leed.at?id=jinsoolve)](https://codeforces.com/profile/jinsoolve) -->
 
 ### 🌿 Atcoder Rating: <br><br>
-<img src="https://atrating.baoshuo.dev/rating?username=jinsoolve">
+[![jinsoolve's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/jinsoolve?theme=darcula&width=450&show_history=3&show_icons=true)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+
+
+<!-- 구버전 -->
+<!-- <img src="https://atrating.baoshuo.dev/rating?username=jinsoolve"> -->
 
 
 ## 📜 Certificates
